@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : {"texts": ["중국식 냉면은 맛있어"], "images": [https://static.wtable.co.kr/image-resize/production/service/recipe/1219/4x3/99632945-221c-4266-929d-5f6983046fe6.jpg]}"
-    labels[1] : {"texts": ["짜장면은 맛있어"], "images": [https://image.greating.co.kr/IL/item/202503/25/8ACD551BCD0340238443B927DB0DB2A9.jpg]}"
-    labels[2] : {"texts": ["짬뽕은 맛있어"], "images": [https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/201706/05/d3feddd2-7588-410b-b08e-d963f782450b.jpg]}"
-    labels[3] : {"texts": ["탕수육은 맛있어"], "images": [https://homecuisine.co.kr/files/attach/images/142/737/002/969e9f7dc60d42510c5c0353a58ba701.JPG]}"
+    labels[0] : {"texts": ["중국식 냉면은 맛있어"], "images": [https://static.wtable.co.kr/image-resize/production/service/recipe/1219/4x3/99632945-221c-4266-929d-5f6983046fe6.jpg]"}
+    labels[1] : {"texts": ["짜장면은 맛있어"], "images": [https://image.greating.co.kr/IL/item/202503/25/8ACD551BCD0340238443B927DB0DB2A9.jpg]"}
+    labels[2] : {"texts": ["짬뽕은 맛있어"], "images": [https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/201706/05/d3feddd2-7588-410b-b08e-d963f782450b.jpg]"}
+    labels[3] : {"texts": ["탕수육은 맛있어"], "images": [https://homecuisine.co.kr/files/attach/images/142/737/002/969e9f7dc60d42510c5c0353a58ba701.JPG]"}
                                                         
 }
 
